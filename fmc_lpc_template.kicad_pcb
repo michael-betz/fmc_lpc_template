@@ -578,7 +578,7 @@
       (net 7 "GND") (pinfunction "H39") (pintype "power_in") (clearance 0.1) (tstamp 73121295-64fd-480a-a341-72430dd9a70e))
     (pad "H40" smd circle locked (at 3.17 -24.77 270) (size 0.64 0.64) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 6 "VDDA") (pinfunction "H40") (pintype "power_in") (clearance 0.1) (tstamp 5ca9780c-f260-4d5a-944c-d586a60139e4))
-    (model "${KIPRJMOD}/../3D/ASP_134604_003_cp.wrl"
+    (model "${KIPRJMOD}/3D/ASP_134604_003_cp.wrl"
       (offset (xyz 0 0 0.4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
